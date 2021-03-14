@@ -1,8 +1,41 @@
 body { background-image: url(tlo.jpg)}
-#naglowek {color: white; font-size: xx-large; text-align: center; padding-bottom:30px; background-color: grey;}
-#opis {color: white; font-size: large; text-align: center; padding-bottom:40px; }
-#galeria {float: left; width: 70% margin-left: auto; margin-right: auto; }
-table {border-spacing: 8mm;}
-caption {color: white; font-size: x-large; text-align:center;}
-img {width:300px; height: 300px }
-#tekst{ float: right; width: 30%; color:white; font-size: medium; text-align: left;   }
+#naglowek {
+	color: white;
+	font-size: xx-large;
+	text-align: center;
+	padding-bottom:30px;
+	background-color: grey;
+}
+#opis {
+	color: white;
+	font-size: large;
+	text-align: center;
+padding-bottom:40px;
+}
+	
+#galeria {
+	float: left;
+	width: 65%;
+	margin-left: auto;
+	margin-right: auto;
+}
+table {
+	border-spacing: 8mm;
+}
+caption {
+	color: white;
+	font-size: x-large;
+	text-align:center;
+}
+img {
+	width:300px;
+	height: 300px;
+}
+#tekst{
+	float: right;
+	width: 25%;
+	color:white;
+	font-size: medium;
+	text-align: left;   
+	padding-left: 20px;
+}
